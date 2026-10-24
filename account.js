@@ -6,8 +6,7 @@ var website_name = "RRR TOPUP";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";https://t.me/+HmdZZwHYcxBhMGE9
-
+var telegram_channel_link = "https://t.me/+HmdZZwHYcxBhMGE9";
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
@@ -16,7 +15,7 @@ var telegram_group_link = "telegram group link";
 // =======================================================
 // YOUTUBE CHANNEL LINK 
 // =======================================================
-var youtube_channel_link = "YouTube channel link";https://www.youtube.com/@cricket-o7i-x8z
+var youtube_channel_link ="https://www.youtube.com/@cricket-o7i-x8z";
 
 // =======================================================
 // NOTIFICATION TEXT
