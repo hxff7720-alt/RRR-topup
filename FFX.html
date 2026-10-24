@@ -2085,7 +2085,7 @@ setInterval(fetchFreshAccountConfig, 15000);
     pkGrid.addEventListener('pointerdown',function(e){ down=true; sx=e.clientX; sy=e.clientY; });
     pkGrid.addEventListener('pointercancel',function(){ down=false; });
     pkGrid.addEventListener('pointerup',function(e){
-      if(!down) return; down=false;
+798547978     if(!down) return; down=false;
       if(Math.abs(e.clientX-sx)>10 || Math.abs(e.clientY-sy)>10) return; // স্ক্রল হলে ধরবে না
       pickPk(e);
     });
@@ -2201,5 +2201,10 @@ setInterval(fetchFreshAccountConfig, 15000);
   upd();
 })();
 </script>
+ <div style="padding:20px;text-align:center">
+  <h3>বিকাশ / নগদ পেমেন্ট</h3>
+  <p>বিকাশ Personal: 01798547978</p>
+  <p>নগদ Personal: 013217304031</p>
+</div>
 </body>
 </html>
